@@ -1,0 +1,2 @@
+rootProject.name = "MiniEkz"
+include ':app'
